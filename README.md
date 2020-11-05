@@ -1,10 +1,14 @@
 # world_clock
 
 A new Flutter project.
+Using Free Worldtime API and a few Flutter Packages a Worldtime App is built.
+Course courtesy:- The Net Ninja
+
+You are free to Clone it and add any changes you want 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
